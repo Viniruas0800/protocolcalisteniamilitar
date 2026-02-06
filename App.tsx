@@ -256,7 +256,7 @@ export default function App() {
 
   // --- FACEBOOK PIXEL INIT ---
   useEffect(() => {
-    const pixelId = '1517817469315161';
+    const pixelId = '2037433700322189';
 
     if (!window.fbq) {
       // Base Pixel Code
