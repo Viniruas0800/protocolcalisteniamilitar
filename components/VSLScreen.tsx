@@ -140,7 +140,7 @@ export const VSLScreen: React.FC<VSLScreenProps> = () => {
     // 2. Handle the back button (popstate)
     const handlePopState = (event: PopStateEvent) => {
       // Redirect immediately to the checkout/offer
-      window.location.href = 'https://pay.mycheckoutt.com/019bd776-1df6-729e-ba05-49fb1e761123?ref=';
+      window.location.href = 'https://websiteoficial.mycartpanda.com/checkout/206840427:1';
     };
 
     // 3. Listen for the event
